@@ -1,0 +1,389 @@
+debuggroup summary 0.18s welcome to circos v0.69-6 31 July 2017 on Perl 5.022001
+debuggroup summary 0.18s current working directory /home/akkal/software/circos/circos-0.69-6/example
+debuggroup summary 0.18s command ../bin/circos -conf etc/circos.conf -debug_group summary,timer
+debuggroup summary 0.18s loading configuration from file etc/circos.conf
+debuggroup summary 0.18s found conf file etc/circos.conf
+debuggroup summary 0.42s debug will appear for these features: summary,timer
+debuggroup summary 0.42s bitmap output image ./circos.png
+debuggroup summary 0.42s SVG output image ./circos.svg
+debuggroup summary 0.42s parsing karyotype and organizing ideograms
+debuggroup summary 0.63s karyotype has 66 chromosomes of total size 8,540,079,869
+debuggroup summary 0.64s applying global and local scaling
+debuggroup summary 0.72s allocating image, colors and brushes
+debuggroup summary 7.48s drawing 24 ideograms of total size 3,344,416,167
+debuggroup summary 7.48s drawing highlights and ideograms
+debuggroup summary 9.07s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/link.conf
+debuggroup summary 9.07s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/link.conf
+debuggroup summary 9.07s process track_0 link /home/akkal/software/circos/circos-0.69-6/example/data/rn.bundle.txt
+debuggroup summary 9.48s process track_1 link /home/akkal/software/circos/circos-0.69-6/example/data/mm.bundle.txt
+debuggroup summary 9.58s drawing link track_0 z 0
+debuggroup summary 10.09s drawing link track_1 z 0
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/highlight.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/highlight.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/text.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.16s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/heatmap.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.18s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.18s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.18s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.18s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/histogram.conf
+debuggroup summary 10.18s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.18s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/histogram.conf
+debuggroup summary 10.18s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/scatter.conf
+debuggroup summary 10.18s processing track_0 highlight /home/akkal/software/circos/circos-0.69-6/example/data/highlights.txt
+debuggroup summary 10.19s processing track_1 highlight /home/akkal/software/circos/circos-0.69-6/example/data/highlights.txt
+debuggroup summary 10.20s processing track_2 text /home/akkal/software/circos/circos-0.69-6/example/data/genes.txt
+debuggroup summary 10.74s processing track_3 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.hs.mm.20e6.txt
+debuggroup summary 10.77s processing track_4 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.hs.rn.20e6.txt
+debuggroup summary 10.80s processing track_5 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.hs.mm.10e6.txt
+debuggroup summary 10.86s processing track_6 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.hs.rn.10e6.txt
+debuggroup summary 10.91s processing track_7 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.1.txt
+debuggroup summary 10.93s processing track_8 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.2.txt
+debuggroup summary 10.95s processing track_9 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.3.txt
+debuggroup summary 10.97s processing track_10 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.4.txt
+debuggroup summary 10.99s processing track_11 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.5.txt
+debuggroup summary 11.01s processing track_12 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.6.txt
+debuggroup summary 11.02s processing track_13 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.7.txt
+debuggroup summary 11.04s processing track_14 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.8.txt
+debuggroup summary 11.06s processing track_15 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.9.txt
+debuggroup summary 11.08s processing track_16 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.10.txt
+debuggroup summary 11.10s processing track_17 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.11.txt
+debuggroup summary 11.12s processing track_18 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.12.txt
+debuggroup summary 11.14s processing track_19 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.13.txt
+debuggroup summary 11.15s processing track_20 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.14.txt
+debuggroup summary 11.17s processing track_21 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.15.txt
+debuggroup summary 11.19s processing track_22 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.16.txt
+debuggroup summary 11.21s processing track_23 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.17.txt
+debuggroup summary 11.23s processing track_24 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.18.txt
+debuggroup summary 11.25s processing track_25 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.19.txt
+debuggroup summary 11.27s processing track_26 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.20.txt
+debuggroup summary 11.29s processing track_27 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.21.txt
+debuggroup summary 11.31s processing track_28 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.22.txt
+debuggroup summary 11.33s processing track_29 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.1.txt
+debuggroup summary 11.36s processing track_30 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.2.txt
+debuggroup summary 11.38s processing track_31 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.3.txt
+debuggroup summary 11.40s processing track_32 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.4.txt
+debuggroup summary 11.43s processing track_33 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.5.txt
+debuggroup summary 11.45s processing track_34 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.6.txt
+debuggroup summary 11.48s processing track_35 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.7.txt
+debuggroup summary 11.50s processing track_36 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.8.txt
+debuggroup summary 11.52s processing track_37 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.9.txt
+debuggroup summary 11.55s processing track_38 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.10.txt
+debuggroup summary 11.57s processing track_39 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.11.txt
+debuggroup summary 11.60s processing track_40 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.12.txt
+debuggroup summary 11.62s processing track_41 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.13.txt
+debuggroup summary 11.65s processing track_42 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.14.txt
+debuggroup summary 11.67s processing track_43 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.15.txt
+debuggroup summary 11.69s processing track_44 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.16.txt
+debuggroup summary 11.72s processing track_45 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.17.txt
+debuggroup summary 11.74s processing track_46 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.18.txt
+debuggroup summary 11.77s processing track_47 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.19.txt
+debuggroup summary 11.79s processing track_48 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.20.txt
+debuggroup summary 11.82s processing track_49 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.21.txt
+debuggroup summary 11.85s processing track_50 heatmap /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.22.txt
+debuggroup summary 11.87s processing track_51 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.1.txt
+debuggroup summary 11.91s processing track_52 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.2.txt
+debuggroup summary 11.94s processing track_53 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.3.txt
+debuggroup summary 11.97s processing track_54 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.4.txt
+debuggroup summary 12.01s processing track_55 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.rn.5e6.hs.5.txt
+debuggroup summary 12.04s processing track_56 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.1.txt
+debuggroup summary 12.07s processing track_57 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.2.txt
+debuggroup summary 12.09s processing track_58 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.3.txt
+debuggroup summary 12.12s processing track_59 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.4.txt
+debuggroup summary 12.15s processing track_60 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.5.txt
+debuggroup summary 12.17s processing track_61 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.6.txt
+debuggroup summary 12.20s processing track_62 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.7.txt
+debuggroup summary 12.23s processing track_63 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.8.txt
+debuggroup summary 12.26s processing track_64 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.9.txt
+debuggroup summary 12.28s processing track_65 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.10.txt
+debuggroup summary 12.31s processing track_66 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.11.txt
+debuggroup summary 12.34s processing track_67 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.12.txt
+debuggroup summary 12.36s processing track_68 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.13.txt
+debuggroup summary 12.39s processing track_69 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.14.txt
+debuggroup summary 12.42s processing track_70 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.15.txt
+debuggroup summary 12.44s processing track_71 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.16.txt
+debuggroup summary 12.47s processing track_72 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.17.txt
+debuggroup summary 12.50s processing track_73 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.18.txt
+debuggroup summary 12.53s processing track_74 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.19.txt
+debuggroup summary 12.55s processing track_75 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.20.txt
+debuggroup summary 12.58s processing track_76 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.21.txt
+debuggroup summary 12.61s processing track_77 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.mm.5e6.hs.22.txt
+debuggroup summary 12.63s processing track_78 histogram /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.hs.mm.20e6.txt
+debuggroup summary 12.66s processing track_79 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.hs.mm.5e6.txt
+debuggroup summary 12.78s processing track_80 histogram /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.hs.rn.20e6.txt
+debuggroup summary 12.81s processing track_81 scatter /home/akkal/software/circos/circos-0.69-6/example/data/heatmap.hs.rn.5e6.txt
+debuggroup summary 12.92s drawing track_0 highlight z 0 highlights.txt 
+debuggroup summary 12.92s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 12.95s drawing track_1 highlight z 0 highlights.txt 
+debuggroup summary 12.95s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 12.98s drawing track_2 text z 0 genes.txt 
+debuggroup summary 13.01s placing text track data/genes.txt
+debuggroup summary 13.01s ... see progress with -debug_group text
+debuggroup summary 13.01s ... see placement summary with -debug_group textplace
+debuggroup summary 30.43s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 31.43s drawing track_3 heatmap z 0 heatmap.hs.mm.20e6.txt 
+debuggroup summary 31.44s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 31.54s drawing track_4 heatmap z 0 heatmap.hs.rn.20e6.txt 
+debuggroup summary 31.55s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 31.64s drawing track_5 heatmap z 0 heatmap.hs.mm.10e6.txt 
+debuggroup summary 31.65s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 31.84s drawing track_6 heatmap z 0 heatmap.hs.rn.10e6.txt 
+debuggroup summary 31.85s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.02s drawing track_7 heatmap z 0 heatmap.mm.5e6.hs.1.txt 
+debuggroup summary 32.02s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.05s drawing track_8 heatmap z 0 heatmap.mm.5e6.hs.2.txt 
+debuggroup summary 32.05s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.08s drawing track_9 heatmap z 0 heatmap.mm.5e6.hs.3.txt 
+debuggroup summary 32.08s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.11s drawing track_10 heatmap z 0 heatmap.mm.5e6.hs.4.txt 
+debuggroup summary 32.11s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.14s drawing track_11 heatmap z 0 heatmap.mm.5e6.hs.5.txt 
+debuggroup summary 32.14s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.17s drawing track_12 heatmap z 0 heatmap.mm.5e6.hs.6.txt 
+debuggroup summary 32.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.20s drawing track_13 heatmap z 0 heatmap.mm.5e6.hs.7.txt 
+debuggroup summary 32.20s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.23s drawing track_14 heatmap z 0 heatmap.mm.5e6.hs.8.txt 
+debuggroup summary 32.23s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.26s drawing track_15 heatmap z 0 heatmap.mm.5e6.hs.9.txt 
+debuggroup summary 32.26s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.29s drawing track_16 heatmap z 0 heatmap.mm.5e6.hs.10.txt 
+debuggroup summary 32.29s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.32s drawing track_17 heatmap z 0 heatmap.mm.5e6.hs.11.txt 
+debuggroup summary 32.32s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.35s drawing track_18 heatmap z 0 heatmap.mm.5e6.hs.12.txt 
+debuggroup summary 32.35s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.38s drawing track_19 heatmap z 0 heatmap.mm.5e6.hs.13.txt 
+debuggroup summary 32.38s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.41s drawing track_20 heatmap z 0 heatmap.mm.5e6.hs.14.txt 
+debuggroup summary 32.41s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.44s drawing track_21 heatmap z 0 heatmap.mm.5e6.hs.15.txt 
+debuggroup summary 32.44s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.47s drawing track_22 heatmap z 0 heatmap.mm.5e6.hs.16.txt 
+debuggroup summary 32.47s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.50s drawing track_23 heatmap z 0 heatmap.mm.5e6.hs.17.txt 
+debuggroup summary 32.50s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.53s drawing track_24 heatmap z 0 heatmap.mm.5e6.hs.18.txt 
+debuggroup summary 32.54s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.56s drawing track_25 heatmap z 0 heatmap.mm.5e6.hs.19.txt 
+debuggroup summary 32.57s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.59s drawing track_26 heatmap z 0 heatmap.mm.5e6.hs.20.txt 
+debuggroup summary 32.60s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.62s drawing track_27 heatmap z 0 heatmap.mm.5e6.hs.21.txt 
+debuggroup summary 32.63s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.65s drawing track_28 heatmap z 0 heatmap.mm.5e6.hs.22.txt 
+debuggroup summary 32.65s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.68s drawing track_29 heatmap z 0 heatmap.rn.5e6.hs.1.txt 
+debuggroup summary 32.68s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.72s drawing track_30 heatmap z 0 heatmap.rn.5e6.hs.2.txt 
+debuggroup summary 32.72s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.76s drawing track_31 heatmap z 0 heatmap.rn.5e6.hs.3.txt 
+debuggroup summary 32.76s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.79s drawing track_32 heatmap z 0 heatmap.rn.5e6.hs.4.txt 
+debuggroup summary 32.79s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.83s drawing track_33 heatmap z 0 heatmap.rn.5e6.hs.5.txt 
+debuggroup summary 32.83s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.86s drawing track_34 heatmap z 0 heatmap.rn.5e6.hs.6.txt 
+debuggroup summary 32.86s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.90s drawing track_35 heatmap z 0 heatmap.rn.5e6.hs.7.txt 
+debuggroup summary 32.90s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.93s drawing track_36 heatmap z 0 heatmap.rn.5e6.hs.8.txt 
+debuggroup summary 32.94s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 32.97s drawing track_37 heatmap z 0 heatmap.rn.5e6.hs.9.txt 
+debuggroup summary 32.97s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.00s drawing track_38 heatmap z 0 heatmap.rn.5e6.hs.10.txt 
+debuggroup summary 33.01s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.04s drawing track_39 heatmap z 0 heatmap.rn.5e6.hs.11.txt 
+debuggroup summary 33.04s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.07s drawing track_40 heatmap z 0 heatmap.rn.5e6.hs.12.txt 
+debuggroup summary 33.08s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.11s drawing track_41 heatmap z 0 heatmap.rn.5e6.hs.13.txt 
+debuggroup summary 33.11s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.14s drawing track_42 heatmap z 0 heatmap.rn.5e6.hs.14.txt 
+debuggroup summary 33.15s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.18s drawing track_43 heatmap z 0 heatmap.rn.5e6.hs.15.txt 
+debuggroup summary 33.18s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.21s drawing track_44 heatmap z 0 heatmap.rn.5e6.hs.16.txt 
+debuggroup summary 33.22s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.25s drawing track_45 heatmap z 0 heatmap.rn.5e6.hs.17.txt 
+debuggroup summary 33.25s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.28s drawing track_46 heatmap z 0 heatmap.rn.5e6.hs.18.txt 
+debuggroup summary 33.29s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.32s drawing track_47 heatmap z 0 heatmap.rn.5e6.hs.19.txt 
+debuggroup summary 33.32s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.35s drawing track_48 heatmap z 0 heatmap.rn.5e6.hs.20.txt 
+debuggroup summary 33.36s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.39s drawing track_49 heatmap z 0 heatmap.rn.5e6.hs.21.txt 
+debuggroup summary 33.39s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.42s drawing track_50 heatmap z 0 heatmap.rn.5e6.hs.22.txt 
+debuggroup summary 33.42s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.46s drawing track_51 scatter z 0 heatmap.rn.5e6.hs.1.txt orient out
+debuggroup summary 33.46s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.51s drawing track_52 scatter z 0 heatmap.rn.5e6.hs.2.txt orient out
+debuggroup summary 33.51s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.55s drawing track_53 scatter z 0 heatmap.rn.5e6.hs.3.txt orient out
+debuggroup summary 33.56s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.60s drawing track_54 scatter z 0 heatmap.rn.5e6.hs.4.txt orient out
+debuggroup summary 33.60s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.64s drawing track_55 scatter z 0 heatmap.rn.5e6.hs.5.txt orient out
+debuggroup summary 33.65s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.69s drawing track_56 scatter z 0 heatmap.mm.5e6.hs.1.txt orient out
+debuggroup summary 33.69s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.71s drawing track_57 scatter z 0 heatmap.mm.5e6.hs.2.txt orient out
+debuggroup summary 33.72s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.74s drawing track_58 scatter z 0 heatmap.mm.5e6.hs.3.txt orient out
+debuggroup summary 33.74s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.76s drawing track_59 scatter z 0 heatmap.mm.5e6.hs.4.txt orient out
+debuggroup summary 33.76s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.78s drawing track_60 scatter z 0 heatmap.mm.5e6.hs.5.txt orient out
+debuggroup summary 33.78s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.80s drawing track_61 scatter z 0 heatmap.mm.5e6.hs.6.txt orient out
+debuggroup summary 33.81s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.82s drawing track_62 scatter z 0 heatmap.mm.5e6.hs.7.txt orient out
+debuggroup summary 33.83s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.84s drawing track_63 scatter z 0 heatmap.mm.5e6.hs.8.txt orient out
+debuggroup summary 33.85s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.87s drawing track_64 scatter z 0 heatmap.mm.5e6.hs.9.txt orient out
+debuggroup summary 33.87s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.89s drawing track_65 scatter z 0 heatmap.mm.5e6.hs.10.txt orient out
+debuggroup summary 33.89s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.91s drawing track_66 scatter z 0 heatmap.mm.5e6.hs.11.txt orient out
+debuggroup summary 33.91s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.93s drawing track_67 scatter z 0 heatmap.mm.5e6.hs.12.txt orient out
+debuggroup summary 33.93s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.95s drawing track_68 scatter z 0 heatmap.mm.5e6.hs.13.txt orient out
+debuggroup summary 33.95s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.97s drawing track_69 scatter z 0 heatmap.mm.5e6.hs.14.txt orient out
+debuggroup summary 33.98s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 33.99s drawing track_70 scatter z 0 heatmap.mm.5e6.hs.15.txt orient out
+debuggroup summary 34.00s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 34.02s drawing track_71 scatter z 0 heatmap.mm.5e6.hs.16.txt orient out
+debuggroup summary 34.02s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 34.04s drawing track_72 scatter z 0 heatmap.mm.5e6.hs.17.txt orient out
+debuggroup summary 34.04s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 34.06s drawing track_73 scatter z 0 heatmap.mm.5e6.hs.18.txt orient out
+debuggroup summary 34.06s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 34.08s drawing track_74 scatter z 0 heatmap.mm.5e6.hs.19.txt orient out
+debuggroup summary 34.08s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 34.10s drawing track_75 scatter z 0 heatmap.mm.5e6.hs.20.txt orient out
+debuggroup summary 34.10s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 34.12s drawing track_76 scatter z 0 heatmap.mm.5e6.hs.21.txt orient out
+debuggroup summary 34.12s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 34.14s drawing track_77 scatter z 0 heatmap.mm.5e6.hs.22.txt orient out
+debuggroup summary 34.14s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 34.16s drawing track_78 histogram z 0 heatmap.hs.mm.20e6.txt orient out
+debuggroup summary 34.17s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 34.60s drawing track_79 scatter z 0 heatmap.hs.mm.5e6.txt orient out
+debuggroup summary 34.62s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 34.94s drawing track_80 histogram z 0 heatmap.hs.rn.20e6.txt orient in
+debuggroup summary 34.94s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 35.18s drawing track_81 scatter z 0 heatmap.hs.rn.5e6.txt orient in
+debuggroup summary 35.20s found conf file /home/akkal/software/circos/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup timer 36.20s report circos 36.015 s
+debuggroup timer 36.20s report color 6.656 s
+debuggroup timer 36.20s report colordefinitions 0.614 s
+debuggroup timer 36.20s report colorfetch 0.068 s
+debuggroup timer 36.20s report colorlists 5.225 s
+debuggroup timer 36.20s report colorlookups 0.005 s
+debuggroup timer 36.20s report colortransparency 0.748 s
+debuggroup timer 36.20s report dataparams 0.655 s
+debuggroup timer 36.20s report datarules 1.813 s
+debuggroup timer 36.20s report graphic_png_polygon 0.499 s
+debuggroup timer 36.20s report graphic_slice 1.466 s
+debuggroup timer 36.20s report graphic_slice_polygon_coord 0.227 s
+debuggroup timer 36.20s report graphic_slice_polygon_svg 0.535 s
+debuggroup timer 36.20s report graphic_slice_preprocess 0.136 s
+debuggroup timer 36.20s report highlights 0.000 s
+debuggroup timer 36.20s report ideograms_draw 1.590 s
+debuggroup timer 36.20s report ideograms_processing 0.013 s
+debuggroup timer 36.20s report ideograms_ticks_draw 1.214 s
+debuggroup timer 36.20s report ideograms_zoom 0.077 s
+debuggroup timer 36.20s report io 0.326 s
+debuggroup timer 36.20s report karyotype 0.209 s
+debuggroup timer 36.20s report parameter_seek 2.380 s
+debuggroup timer 36.20s report track_heatmap 1.295 s
+debuggroup timer 36.20s report track_highlight 0.038 s
+debuggroup timer 36.20s report track_histogram 0.412 s
+debuggroup timer 36.20s report track_preprocess 0.317 s
+debuggroup timer 36.20s report track_scatter 0.831 s
+debuggroup timer 36.20s report track_text_ashift 12.740 s
+debuggroup timer 36.20s report track_text_ashiftiter 6.396 s
+debuggroup timer 36.20s report track_text_draw 0.869 s
+debuggroup timer 36.20s report track_text_place 17.413 s
+debuggroup timer 36.20s report track_text_preashift 4.058 s
+debuggroup timer 36.20s report track_text_preprocess 0.283 s
+debuggroup timer 36.20s report track_text_refine 0.003 s
+debuggroup timer 36.20s report unitconvert 0.025 s
+debuggroup timer 36.20s report unitconvert_decision 0.002 s
+debuggroup timer 36.20s report unitconvert_delegate 0.008 s
+debuggroup timer 36.20s report unitparse 0.120 s

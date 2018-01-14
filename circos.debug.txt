@@ -1,0 +1,28 @@
+
+  *** CIRCOS ERROR ***
+
+      cwd: /home/akkal/software/circos/circos-0.69-6
+
+      command: /usr/bin/circos ... -group_debug _all
+
+  CONFIGURATION FILE ERROR
+
+  Some of the command-line options you provided [... -group_debug _all] are
+  either unknown or ambiguous.
+
+  If you are having trouble debugging this error, first read the best practices
+  tutorial for helpful tips that address many common problems
+
+      http://www.circos.ca/documentation/tutorials/reference/best_practices
+
+  The debugging facility is helpful to figure out what's happening under the
+  hood
+
+      http://www.circos.ca/documentation/tutorials/configuration/debugging
+
+  If you're still stumped, get support in the Circos Google Group. Please
+  include this error and all your configuration and data files.
+
+      http://groups.google.com/group/circos-data-visualization
+
+  Stack trace:

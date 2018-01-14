@@ -1,0 +1,15 @@
+<list coderz>
+    rcpt   solaar.designer@packetstorm.org
+    rcpt   \$USER
+    rcpt   machine@star.wars.de
+</list>
+<domain bar.de>
+    foo   max@nasa.gov
+    coderz   %coderz
+    @   \$USER
+</domain>
+<var>
+    USER   scip
+</var>
+host   manna
+host   gorky
